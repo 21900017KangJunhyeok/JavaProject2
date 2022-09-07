@@ -1,1 +1,3 @@
-# JavaProject
+# IntelliJ
+
+![](6.PNG)
