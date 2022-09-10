@@ -41,6 +41,14 @@ public class WordManager {
                 //list
                 wordCRUD.listAll();
             }
+            else if(menu == 2) {
+                //list
+                wordCRUD.searchLevel();
+            }
+            else if(menu == 3) {
+                //list
+                wordCRUD.searchWord();
+            }
             else if(menu==5){
                 //update
                 wordCRUD.updateItem();
@@ -50,7 +58,7 @@ public class WordManager {
                 wordCRUD.deleteItem();
             }
             else if (menu==7){
-                wordCRUD.savefile();
+                wordCRUD.saveFile();
             }
         }
 
