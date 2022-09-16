@@ -1,3 +1,3 @@
 # IntelliJ
 
-![](6.PNG)
+![](home.PNG)
