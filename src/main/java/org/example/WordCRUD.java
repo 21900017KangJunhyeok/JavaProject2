@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class WordCRUD implements ICRUD{
     ArrayList<Word> list;
     Scanner s;
-    final String fname = "Dictionary.txt";
+    final String fileName = "Dictionary.txt";
 
     WordCRUD(Scanner s){
         list = new ArrayList<>();
@@ -28,7 +28,7 @@ public class WordCRUD implements ICRUD{
         return new Word(0,level, word, meaning);
     }
 
-    public void addItem() {
+    public void addWord() {
         Word one = (Word)add();
         list.add(one);
         System.out.println("\n새 단어가 단어장에 추가되었습니다.!!! \n");
@@ -91,7 +91,7 @@ public class WordCRUD implements ICRUD{
         System.out.println("--------------------------------");
     }
 
-    public void updateItem() {
+    public void updateWord() {
         System.out.print("=> 수정할 단어 검색 : ");
         String keyword = s.next();
         ArrayList<Integer> idlist = this.listAll(keyword);
@@ -105,7 +105,7 @@ public class WordCRUD implements ICRUD{
         System.out.println("단어가 수정되었습니다. ");
 
     }
-    public void deleteItem(){
+    public void deleteWord(){
         System.out.print("=> 삭제할 단어 검색 : ");
         String keyword = s.next();
         ArrayList<Integer> idlist = this.listAll(keyword);
@@ -113,8 +113,8 @@ public class WordCRUD implements ICRUD{
         int id = s.nextInt();
         s.nextLine();
         System.out.print("=> 정말로 삭제하실래요? (Y/N) ");
-        String ans = s.nextLine();
-        if(ans.equalsIgnoreCase("y")){
+        String retur = s.nextLine();
+        if(retur.equalsIgnoreCase("y")){
             list.remove((int)idlist.get(id-1));
             System.out.println("단어가 삭제되었습니다. ");
         }
@@ -123,7 +123,7 @@ public class WordCRUD implements ICRUD{
 
     public void loadFile() {
         try {
-            BufferedReader br = new BufferedReader(new FileReader(fname));
+            BufferedReader br = new BufferedReader(new FileReader(fileName));
             String line;
             int count = 0;
             while(true){

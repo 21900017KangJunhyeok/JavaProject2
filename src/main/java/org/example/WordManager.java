@@ -35,7 +35,7 @@ public class WordManager {
             if(menu == 0) break;
             if(menu == 4) {
                 //create
-                wordCRUD.addItem();
+                wordCRUD.addWord();
             }
             else if(menu == 1) {
                 //list
@@ -51,11 +51,11 @@ public class WordManager {
             }
             else if(menu==5){
                 //update
-                wordCRUD.updateItem();
+                wordCRUD.updateWord();
             }
             else if(menu==6){
                 //delete
-                wordCRUD.deleteItem();
+                wordCRUD.deleteWord();
             }
             else if (menu==7){
                 wordCRUD.saveFile();
