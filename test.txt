@@ -2,10 +2,9 @@
 1|electric|전기의, 전기를 생성하는
 2|equipment|장비, 용품
 1|pole|기둥, 장대
-1|transfer|옯기다, 이동하다.
 3|subordinate|부하의, 하급자의
 2|utility|공익사업(체), 유용성
 1|stock|주식, 재고
 1|graceful|우아한
 2|executive|경영 간부, 임원
-1| dog|강아지
+1| apple|사과
