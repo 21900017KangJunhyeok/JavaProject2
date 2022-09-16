@@ -62,7 +62,7 @@ public class WordManager {
             }
         }
 
-        System.out.println("\n프로그램 종료!!! 다음에 만나요~");
+        System.out.println("\n프로그램 종료!!! 다음에 만나요:)");
     }
 
 }
