@@ -5,12 +5,16 @@
 
 <img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function4-1.PNG' width='300' >
 <img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function1-1.PNG' width='300' >
-<img src ='' width='300' >
-<img src ='' width='300' >
-<img src ='' width='300' >
-<img src ='' width='300' >
-<img src ='' width='300' >
-<img src ='' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function4-2.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function1-2.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function0.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function5.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function6.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function7.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function1-3.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function2.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function3.PNG' width='300' >
+
 
 
 
