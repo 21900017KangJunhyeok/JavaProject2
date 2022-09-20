@@ -3,28 +3,7 @@
 
 ![](home.PNG)
 
-![](function4-1.PNG)
-
-![](function1-1.PNG)
-
-![](function4-2.PNG)
-
-![](function1-2.PNG)
-
-![](function0.PNG)
-
-![](function5.PNG)
-
-![](function6.PNG)
-
-![](function7.PNG)
-
-![](function1-3.PNG)
-
-![](function2.PNG)
-
-![](function3.PNG)
-
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function4-1.PNG' width='300' >
 
 
 ##소감, 어려움 또는 건의사항
