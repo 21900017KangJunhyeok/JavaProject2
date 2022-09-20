@@ -4,6 +4,15 @@
 ![](home.PNG)
 
 <img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function4-1.PNG' width='300' >
+<img src ='https://github.com/21900017KangJunhyeok/JavaProject2/raw/master/screenshots/function1-1.PNG' width='300' >
+<img src ='' width='300' >
+<img src ='' width='300' >
+<img src ='' width='300' >
+<img src ='' width='300' >
+<img src ='' width='300' >
+<img src ='' width='300' >
+
+
 
 
 ##소감, 어려움 또는 건의사항
