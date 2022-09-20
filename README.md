@@ -1,5 +1,6 @@
 # IntelliJ
 ##실행결과화면
+
 ![](home.PNG)
 
 ![](function4-1.PNG)
